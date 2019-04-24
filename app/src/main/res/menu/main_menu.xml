@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/info">
+        <item android:title="@string/info" android:checkable="false"></item>
+            <item
+                android:id="@+id/zhihu"
+                android:title="@string/zhihu"
+                android:checkable="true"
+                android:icon="@mipmap/ic_drawer_zhihu"
+                />
+        <item
+            android:id="@+id/wechat"
+            android:title="@string/wechat"
+            android:checkable="true"
+            android:icon="@mipmap/ic_drawer_wechat"
+            />
+        <item
+            android:id="@+id/gank"
+            android:title="@string/gank"
+            android:checkable="true"
+            android:icon="@mipmap/ic_drawer_gank"
+            />
+        <item
+            android:id="@+id/gold"
+            android:title="@string/gold"
+            android:checkable="true"
+            android:icon="@mipmap/ic_gold_like"
+            />
+        <item
+            android:id="@+id/v2ex"
+            android:title="@string/v2ex"
+            android:checkable="true"
+            android:icon="@mipmap/ic_drawer_vtex"
+            />
+    </group>
+    <group android:id="@+id/options">
+       <item android:title="@string/options" android:checkable="false"></item>
+        <item android:id="@+id/collect"
+            android:icon="@mipmap/ic_drawer_like"
+            android:title="@string/collect"
+            android:checkable="true"
+            />
+        <item android:id="@+id/settings"
+            android:icon="@mipmap/ic_drawer_setting"
+            android:title="@string/settings"
+            android:checkable="true"
+            />
+        <item android:id="@+id/about"
+            android:icon="@mipmap/ic_drawer_about"
+            android:title="@string/about"
+            android:checkable="true"
+            />
+
+    </group>
+</menu>

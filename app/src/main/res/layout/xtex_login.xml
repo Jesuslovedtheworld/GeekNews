@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/g_FFFFFF"
+    android:layout_height="match_parent"
+    tools:context=".activity.LoginActivity">
+   <android.support.design.widget.TabLayout
+       android:layout_width="310dp"
+       android:layout_height="58dp"
+       android:id="@+id/tab"
+       app:tabMode="scrollable"
+       />
+   <ImageView
+       android:background="@mipmap/ic_menu"
+       android:id="@+id/img"
+       android:layout_toRightOf="@id/tab"
+       android:layout_width="50dp"
+       android:layout_height="50dp" />
+   <android.support.v4.view.ViewPager
+       android:layout_below="@id/tab"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:id="@+id/vp"
+       />
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#008577</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="g_FFFFFF">#FFFFFF</color>
+    <color name="g_E3E3E3">#E3E3E3</color>
+    <color name="g_E66363">#E66363</color>
+    <color name="fab_bg">#FF4081</color>
+    <color name="g_565656">#565656</color>
+
+</resources>

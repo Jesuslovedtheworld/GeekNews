@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GeekNews</string>
+    <string name="info">资讯</string>
+    <string name="zhihu">知乎</string>
+    <string name="wechat">微信</string>
+    <string name="gank">干货集中营</string>
+    <string name="gold">稀土掘金</string>
+    <string name="options">选项</string>
+    <string name="about">关于</string>
+    <string name="settings">设置</string>
+    <string name="v2ex">v2ex</string>
+    <string name="collect">收藏</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dailyNews">今日新闻</string>
+    <string name="dailyNew">日报</string>
+    <string name="theme">主题</string>
+    <string name="column">专栏</string>
+    <string name="hot">热门</string>
+    <string name="ios">IOS</string>
+    <string name="android">Android</string>
+    <string name="front">前端</string>
+    <string name="back">后端</string>
+    <string name="design">设计</string>
+    <string name="product">产品</string>
+    <string name="read">阅读</string>
+    <string name="toolresource">工具资源</string>
+    <string name="geek">A pure reading App for you</string>
+    <string name="cache">自动缓存</string>
+    <string name="noimage">无图模式</string>
+    <string name="night">夜间模式</string>
+    <string name="outhor">其他</string>
+    <string name="feedback">意见反馈</string>
+    <string name="clearcache">清除缓存</string>
+    <string name="checkupdate">检查更新</string>
+</resources>
